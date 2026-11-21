@@ -4,7 +4,7 @@ Power BI portfolio project analysing retail sales data by product SKU, customer 
 
 The data was cleaned and modelled in **Google BigQuery** (SQL) and visualised in a multi-page, interactive **Power BI** report with drill-through, custom tooltips and conditional formatting.
 
-![Sales Overview](Report Pg 1 - Screenshot)
+![Sales Overview](1 Sales Overview - Screenshot)
 
 ## Business questions
 
