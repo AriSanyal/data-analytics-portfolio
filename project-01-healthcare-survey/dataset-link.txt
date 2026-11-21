@@ -1,4 +1,0 @@
-Retail Sales & Customer Insights Dataset
-
-https://www.kaggle.com/datasets/buharishehu/retail-sales-dataset
-
